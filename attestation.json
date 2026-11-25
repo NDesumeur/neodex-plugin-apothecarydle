@@ -1,9 +1,9 @@
 {
   "pluginId": "neodex.apothecarydle",
   "repo": "NDesumeur/neodex-plugin-apothecarydle",
-  "version": "1.4.1",
-  "sha256": "7d51451b2dc863b11a5c31c59314bcdb6beb2bd4068714cf9c58b51ea63ff70e",
-  "approvedAt": "2026-11-16T16:38:46.048Z",
+  "version": "1.5.0",
+  "sha256": "ad5d8c24b9003d20ba668063964757706752e46faba0025ed0c10f0beb639b10",
+  "approvedAt": "2026-11-25T17:16:39.151Z",
   "neobase": ">=4.0.0",
-  "signature": "sSUFKEir1ymYcd1Bd8KYjB7w9Qu45kYhAprcc3fDA5xcptALcPyJU0KMiEBXqY3VCsteKY5ngnE92rmJrFe7Bg=="
+  "signature": "WHrbsTNAR1PayBiazhvDsdq9yPoC4o303C7+xS55uPszrXqN215kxjpZ3PJq36CnNYl2Ha9GmoR71kwy6N13DQ=="
 }
